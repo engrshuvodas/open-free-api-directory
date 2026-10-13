@@ -103,6 +103,7 @@
 |                    [Clientsbee](https://clientsbee.com)                    | Free leads for bussiness and technographics data                          | `apiKey` |  Yes  |   No    |
 |                 [Domainsdb.info](https://domainsdb.info/)                  | Registered Domain Names Search                                            |    No    |  Yes  | Unknown |
 |                      [Favicon.im](https://favicon.im)                      | Instantly fetch and display the favicon for any website                   |    No    |  Yes  |   No    |
+| [FaviconDL](https://favicondl.com/documentation.html) | Extract a website's favicons (ICO, PNG, SVG, Apple touch, manifest) by URL | No | Yes | Yes |
 |              [Freelancer](https://developers.freelancer.com)               | Hire freelancers to get work done                                         | `OAuth`  |  Yes  | Unknown |
 |             [Gmail](https://developers.google.com/gmail/api/)              | Flexible, RESTful access to the user's inbox                              | `OAuth`  |  Yes  | Unknown |
 |        [Google Analytics](https://developers.google.com/analytics/)        | Collect, configure and analyze your data to reach the right audience      | `OAuth`  |  Yes  | Unknown |
